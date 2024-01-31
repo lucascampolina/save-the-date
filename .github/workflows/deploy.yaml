@@ -25,7 +25,7 @@ jobs:
   #     run: npm test
 
   deploy:
-    needs: build-and-test
+    # needs: build-and-test
     runs-on: ubuntu-latest
 
     steps:
