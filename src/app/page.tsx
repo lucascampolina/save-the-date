@@ -16,7 +16,7 @@ export default function Home() {
             By{" "}
             <Image
               src="/ww_tech_logo.svg"
-              alt="W2 Tech Logoo"
+              alt="W2 Tech Logooo"
               className="dark:invert"
               width={100}
               height={24}
